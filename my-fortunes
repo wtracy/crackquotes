@@ -1,3 +1,6 @@
+Escape spaces in Erlang magic to avoid misidentifications, particularly PostScript files produced on Tuesdays
+   -- changelog for libmagic1
+%
 OH GOD OWLBALL HAI OWLBALL (._.)/
    -- Brenda Carlson
 %
