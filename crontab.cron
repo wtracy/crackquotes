@@ -1,0 +1,5 @@
+# A crontab file that runs sig.sh every five minues
+# This will cause each email you send to have a different quote in it!
+
+#min hour date mon wkday command
+*/5  *    *    *   *     /path/to/sig.sh
