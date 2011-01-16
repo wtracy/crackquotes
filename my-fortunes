@@ -1,3 +1,8 @@
+const char *signal_name = (sig == SIGHUP ? "SIGHUP" :
+                           (sig == SIGUSR1 ? "SIGUSR1" :
+                            "WTF?!"));
+   -- from the wget source code
+%
 (08:11:37 PM) DanaG: "ssj" says: "and why didnt they just use USB 3 or eSATA  as the connector?"
 (08:11:49 PM) DanaG: My response: "Umm... you ever try connecting a video  card to a SATA connector?  That makes about as much sense as plugging  your toaster into a garden hose."
    -- seen in #cplug
