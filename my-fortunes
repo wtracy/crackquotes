@@ -1,3 +1,5 @@
+When you have them by the balls, their hearts and minds will follow.
+%
 const char *signal_name = (sig == SIGHUP ? "SIGHUP" :
                            (sig == SIGUSR1 ? "SIGUSR1" :
                             "WTF?!"));
